@@ -7,4 +7,4 @@ While this website may look the same as before, the accessibility and efficiency
 Here is an image of how the site looks after changes: ![Portfolio  Site](./assets/images/FinalScreenshot.png)
 
 # Depoloyed Site
-You can find the link to the deployed site here: [Deployed Site]("https://julesscheil.github.io/Horiseon-Code-Refactoring/")
+You can find the link to the deployed site here: [Deployed Site](https://julesscheil.github.io/Horiseon-Code-Refactoring/)
